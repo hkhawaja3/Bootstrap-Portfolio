@@ -1,0 +1,89 @@
+.navbar-default .navbar-brand {
+    color: white;
+    background: #4aaaa5;
+    font-size: 25px;
+    height: 70px;
+    width: 200px;
+
+  }
+
+ .h1, h1 {
+    font-size: 36px;
+    color: #4aaaa5;
+}
+
+.navbar-default {
+    background-color: white;
+    border-color: #e7e7e7;
+}
+
+p {
+	margin-top: 10px;
+    
+    
+
+}
+
+body{
+	background: url("concrete seamless.png");
+
+}
+
+.container {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  clear: both;
+}
+
+footer {
+	padding: 30px 0;
+    clear: both;
+    font-size: 12px;
+    color: #fff;
+    color: #ccc;
+    text-align: center;
+   	background: #666;
+   	border-top: 8px solid #4aaaa5;
+   	margin-top: 280px;
+   }
+
+.col-md-4{
+	margin-top:120px;
+
+}
+
+.panel-title{
+	color:#4aaaa5;
+	margin-left: 40px;
+	font-size: 25px;
+}
+
+.panel-default>.panel-heading {
+	background-color: white;
+}
+
+.social {
+    width: 62px;
+    height: 62px;
+    margin-top: 8px;
+    margin-right: 15px;
+}
+
+.auth-image{
+	width: 350px;
+	margin-left: 20px;
+
+
+}
+
+
+.navbar-default .navbar-nav>li>a {
+    color: #777;
+    font-size: 20px;
+
+}
+
+.col-md-9{
+	border: 1px solid #ddd
+}
